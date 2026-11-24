@@ -35,7 +35,7 @@ mux-trabalho/
 ## Como executar
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/RenatoCaresia/mux-trabalho.git
 cd mux-trabalho
 
 python demo_mux4.py
